@@ -30,6 +30,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vidura-16"><img src="https://github-readme-stats.vercel.app/api?username=vidura-16&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="vidura-16's GitHub stats" /></a>
+<a href="http://www.github.com/vidura-16"><img src="https://github-readme-stats.vercel.app/api?username=vidura-16&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="vidura-16's GitHub stats" /></a>
 
-<a href="https://github.com/vidura-16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidura-16&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/vidura-16" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidura-16&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
